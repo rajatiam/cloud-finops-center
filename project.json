@@ -1,0 +1,21 @@
+{
+  "name": "Cloud Cost Lab",
+  "skills": "Cloud cost modeling, budgets, resource tagging",
+  "entity": "resource",
+  "fields": [
+    "name",
+    "team",
+    "hourly_cost",
+    "monthly_hours",
+    "budget"
+  ],
+  "example": {
+    "name": "API compute",
+    "team": "platform",
+    "hourly_cost": 0.12,
+    "monthly_hours": 730,
+    "budget": 100
+  },
+  "kind": "cost",
+  "port": 8109
+}
