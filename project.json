@@ -1,5 +1,5 @@
 {
-  "name": "Cloud Cost Lab",
+  "name": "Cloud FinOps Center",
   "skills": "Cloud cost modeling, budgets, resource tagging",
   "entity": "resource",
   "fields": [
@@ -29,5 +29,7 @@
     "Docker",
     "Kubernetes",
     "GitHub Actions"
-  ]
+  ],
+  "slug": "cloud-finops-center",
+  "engineering_version": "3.0.0"
 }
