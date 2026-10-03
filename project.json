@@ -17,5 +17,17 @@
     "budget": 100
   },
   "kind": "cost",
-  "port": 8109
+  "port": 8109,
+  "description": "Estimate resource spend and compare it with team budgets.",
+  "accent": "#ca8a04",
+  "stack": [
+    "Python",
+    "FastAPI",
+    "Angular",
+    "TypeScript",
+    "SQLite",
+    "Docker",
+    "Kubernetes",
+    "GitHub Actions"
+  ]
 }
